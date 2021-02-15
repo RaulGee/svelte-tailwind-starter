@@ -38,4 +38,4 @@ Will run another script found in package.son called "build:tailwind"
 
 Inspired by https://github.com/marcograhl/tailwindcss-svelte-starter
 
-I noticed this repo was using v1 so I decided to update it using V2 and other dependencies.
+I noticed this repo was using v1 so I decided to update it using v2 and other dependencies.
